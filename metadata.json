@@ -1,0 +1,5 @@
+{
+  "name": "Guess That Num Game",
+  "description": "A polished, interactive number guessing game where players try to find the secret number between 1 and 100 with visual feedback and history tracking.",
+  "requestFramePermissions": []
+}
